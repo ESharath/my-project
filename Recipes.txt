@@ -5,5 +5,11 @@ Welcome to Telsuko kitchen
 pasta
 Kheer
 
+bean
+chicken
+
 
 thank you
+
+final copy
+done
